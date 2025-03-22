@@ -1,6 +1,6 @@
-# 🏋️‍♂️ FitFusion - Smart College Gym Management System  
+# FitFusion - Smart College Gym Management System  
 
-## 🚀 Overview  
+## Overview  
 **FitFusion** is a **gym management platform** designed for **college students and faculty**. It focuses on **workout personalization, diet planning, and gym etiquette enforcement** to improve the overall fitness experience.  
 
 ---
@@ -12,12 +12,12 @@
 
 ---
 
-## 🎯 Key Features  
-### ✅ For Gym Faculty & Owners  
+## Key Features  
+### For Gym Faculty & Owners  
 - **Student Progress Management:** Track attendance, workouts, and fitness improvements.  
-- **AI-Based Reracking Reminder System:** Audio alerts ensure students rerack weights properly.  
+- **Reracking Reminder System:** Audio alerts ensure students rerack weights properly.  
 
-### ✅ For Students  
+### For Students  
 - **Personalized Workout & Diet Plans**: Based on fitness level and mess food availability.  
 - **Goal-Oriented Training**: Options for **Weight Loss & Muscle Gain** or **Weight Gain & Muscle Gain**.  
 - **Guest Login**: Displays **gym rules & regulations** to all users.
